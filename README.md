@@ -1,4 +1,4 @@
-# Static rendering test
+# Static rendering test
 
 Repo to try out static rendering in Elm via [`elm-static-html`](https://github.com/eeue56/elm-static-html).
 
