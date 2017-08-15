@@ -1,0 +1,14 @@
+{
+  "name": "static-rendering",
+  "version": "1.0.0",
+  "description": "Elm static render test",
+  "main": "Main.elm",
+  "author": "Elliot Davies",
+  "license": "MIT",
+  "scripts": {
+    "build": "elm-static-html --filename Main.elm --output dist/index.html"
+  },
+  "dependencies": {
+    "elm-static-html": "^1.3.2"
+  }
+}

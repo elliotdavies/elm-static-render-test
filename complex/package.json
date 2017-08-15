@@ -1,0 +1,14 @@
+{
+  "name": "static-rendering-complex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elliot Davies",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "devDependencies": {
+    "elm-static-html": "^1.3.2",
+    "elm-static-html-lib": "^0.0.4"
+  }
+}
